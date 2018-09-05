@@ -1,1 +1,12 @@
-theme: jekyll-theme-cayman
+# Site settings
+main_color: "pink"
+# blue red pink yellow
+title: "Daily Astrology & Palm Reading"
+app_name: "Daily Astrology & Palm Reading"
+app_domain: "astrohoroscope.me"
+support_email_address: "support@astrohoroscope.me"
+appstore_url: "https://itunes.apple.com/us/app/id1434368697"
+#url: "http://localhost:4000/"
+url: "https://horoscopez.me/"
+# Build settings
+markdown: kramdown
